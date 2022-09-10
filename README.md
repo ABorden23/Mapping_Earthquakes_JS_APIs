@@ -1,1 +1,2 @@
-# Mapping_Earthquakes_JS_APIs
+# Mapping Earthquakes
+
